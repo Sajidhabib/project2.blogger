@@ -1,0 +1,29 @@
+.texts{
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+.texts button{
+    float: right;
+    padding: 7px;
+    border: none;
+    background-color: red;
+    color: white;
+}
+.clear{
+    clear: both;
+}
+.art{
+    line-height: 30px;
+}
+.box{
+    background-color: rgb(70, 58, 58);
+    padding: 10px;
+    color: white;
+}
+.data img{
+    margin-left: 50px;
+}
+.row{
+    margin: auto;
+}
